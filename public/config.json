@@ -1,0 +1,14 @@
+{
+  "webcam": {
+    "type": "mjpg",
+    "url": ""
+  },
+  "connection": {
+    "host": "",
+    "port": "",
+    "user": "bblp",
+    "password": "",
+    "token": "",
+    "serial": ""
+  }
+}
