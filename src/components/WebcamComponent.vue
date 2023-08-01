@@ -16,7 +16,8 @@
   grid-area: 1 / 1 / 2 / 4;
 }
 .webcam-container img {
+  height: 100vh;
   width: 100%;
-  object-fit: scale-down;
+  object-fit: cover;
 }
 </style>

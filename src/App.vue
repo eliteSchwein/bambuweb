@@ -21,6 +21,7 @@ setInterval(() => {
 
 <style scoped>
 .wrapper {
+  max-height: 100vh;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: 1fr;
