@@ -11,13 +11,13 @@
   </div>
 </template>
 
-<style scoped>
+<style lang="scss" scoped>
 .webcam-container {
   grid-area: 1 / 1 / 2 / 4;
-}
-.webcam-container img {
-  height: 100vh;
-  width: 100%;
-  object-fit: cover;
+  img {
+    height: 100vh;
+    width: 100%;
+    object-fit: cover;
+  }
 }
 </style>

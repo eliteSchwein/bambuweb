@@ -1,7 +1,7 @@
 {
   "webcam": {
     "type": "mjpg",
-    "url": ""
+    "url": "https://images.pexels.com/photos/13624759/pexels-photo-13624759.jpeg"
   },
   "connection": {
     "host": "",
